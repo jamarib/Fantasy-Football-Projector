@@ -11,7 +11,6 @@ Evaluated code base:
 - [Fantasy_Fantasy_Projections](https://github.com/jamarib/fantasy_football_projections)
 # Sprint 2:
 - [x] Begin coding
-- Make code for quiz questions
 - Research more repositories and tutorials:
   [Tutorials](https://youtu.be/zibV6xaOGEA)
 
